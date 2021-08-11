@@ -135,6 +135,7 @@ plots = html.Div([  html.Div([dcc.Graph(id='plt_dh', style={'width': '100vh', 'h
                     style={'width' : '90%', 'height' : '80%', 'display' : 'flex'})
 
 
+
 # --------------------------------------------------------------------------------------------------------
 # ---- CRETAE DASH APPLICATION
 
