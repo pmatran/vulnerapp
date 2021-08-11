@@ -1,0 +1,9 @@
+
+Application name : vulnerapp
+Authors: P.Matran, A.Pryet
+Version: Beta
+Project: "Analyse de vulnérabilité de la Galerie de Caupian par modélisation hydrodynamique prédictive pour une gestion opérationnelle dynamique"
+Requirements: see requirements.txt
+Host: heroku.com
+Description: Basic interactive dashboard to give a quick overview of Caupian Gallery vulnerability as an web application
+Usage: go to https://vulnerapp.herokuapp.com/ 

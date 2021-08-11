@@ -1,0 +1,11 @@
+name: vulnerapp
+dependencies:
+        - python=3.8
+        - pip:
+                - dash
+                - pandas
+                - numpy
+                - plotly
+                - dash_core_components
+                - dash_html_components
+                - gunicorn
